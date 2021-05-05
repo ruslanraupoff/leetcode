@@ -7,3 +7,4 @@ LeetCode Algorithm Solution
 |[630](https://leetcode.com/problems/course-schedule-iii/)|[Course Schedule III](./2021/05/02/)|67.10%|Hard|#python3, #golang|
 |[1480](https://leetcode.com/problems/running-sum-of-1d-array/)|[Running Sum of 1d Array](./2021/05/03/)|91.92%|Easy|#python3, #golang|
 |[665](https://leetcode.com/problems/non-decreasing-array/)|[Non-decreasing Array](./2021/05/04/)|80.60%|Medium|#python3, #golang|
+|[45](https://leetcode.com/problems/jump-game-ii/)|[Jump Game II](./2021/05/05/)|96.92%|Medium|#python3, #golang|
