@@ -10,3 +10,4 @@ LeetCode Algorithm Solution
 |[45](https://leetcode.com/problems/jump-game-ii/)|[Jump Game II](./2021/05/05/)|96.92%|Medium|#python3, #golang|
 |[109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Convert Sorted List to Binary Search Tree](./2021/05/06/)|44.16%|Medium|#python3, #golang|
 |[583](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Delete Operation for Two Strings](./2021/05/07/)|88.89%|Medium|#python3, #golang|
+|[906](https://leetcode.com/problems/super-palindromes/)|[Super Palindromes](./2021/05/08/)|19.29%|Hard|#python3, #golang|
