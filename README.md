@@ -11,3 +11,4 @@ LeetCode Algorithm Solution
 |[109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Convert Sorted List to Binary Search Tree](./2021/05/06/)|44.16%|Medium|#python3, #golang|
 |[583](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Delete Operation for Two Strings](./2021/05/07/)|88.89%|Medium|#python3, #golang|
 |[906](https://leetcode.com/problems/super-palindromes/)|[Super Palindromes](./2021/05/08/)|19.29%|Hard|#python3, #golang|
+|[1354](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[Construct Target Array With Multiple Sums](./2021/05/09/)|74.45%|Hard|#python3, #golang|
