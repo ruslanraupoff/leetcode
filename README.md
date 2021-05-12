@@ -14,3 +14,4 @@ LeetCode Algorithm Solution
 |[1354](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[Construct Target Array With Multiple Sums](./2021/05/09/)|74.45%|Hard|#python3, #golang|
 |[204](https://leetcode.com/problems/count-primes/)|[Count Primes](./2021/05/10/)|71.62%|Easy|#python3, #golang|
 |[1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Maximum Points You Can Obtain from Cards](./2021/05/11/)|90.43%|Medium|#python3, #golang|
+|[304](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Range Sum Query 2D - Immutable](./2021/05/12/)|95.56%|Medium|#python3, #golang|
