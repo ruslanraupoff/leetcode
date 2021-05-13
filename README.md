@@ -15,3 +15,4 @@ LeetCode Algorithm Solution
 |[204](https://leetcode.com/problems/count-primes/)|[Count Primes](./2021/05/10/)|71.62%|Easy|#python3, #golang|
 |[1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Maximum Points You Can Obtain from Cards](./2021/05/11/)|90.43%|Medium|#python3, #golang|
 |[304](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Range Sum Query 2D - Immutable](./2021/05/12/)|95.56%|Medium|#python3, #golang|
+|[816](https://leetcode.com/problems/ambiguous-coordinates/)|[Ambiguous Coordinates](./2021/05/13/)|80.83%|Medium|#python3, #golang|
