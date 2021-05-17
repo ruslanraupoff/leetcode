@@ -18,4 +18,5 @@ LeetCode Algorithm Solution
 |[816](https://leetcode.com/problems/ambiguous-coordinates/)|[Ambiguous Coordinates](./2021/05/13/)|80.83%|Medium|#python3, #golang|
 |[114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Flatten Binary Tree to Linked List](./2021/05/14/)|74.13%|Medium|#python3, #golang|
 |[65](https://leetcode.com/problems/valid-number/)|[Valid Number](./2021/05/15/)|53.27%|Hard|#python3, #golang|
-|[968](https://leetcode.com/problems/binary-tree-cameras/)|[Binary Tree Cameras](./2021/05/15/)|93.75%|Hard|#python3, #golang|
+|[968](https://leetcode.com/problems/binary-tree-cameras/)|[Binary Tree Cameras](./2021/05/16/)|93.75%|Hard|#python3, #golang|
+|[1048](https://leetcode.com/problems/longest-string-chain/)|[Longest String Chain](./2021/05/17/)|51.90%|Medium|#python3, #golang|
