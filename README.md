@@ -20,3 +20,4 @@ LeetCode Algorithm Solution
 |[65](https://leetcode.com/problems/valid-number/)|[Valid Number](./2021/05/15/)|53.27%|Hard|#python3, #golang|
 |[968](https://leetcode.com/problems/binary-tree-cameras/)|[Binary Tree Cameras](./2021/05/16/)|93.75%|Hard|#python3, #golang|
 |[1048](https://leetcode.com/problems/longest-string-chain/)|[Longest String Chain](./2021/05/17/)|51.90%|Medium|#python3, #golang|
+|[609](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Find Duplicate File in System](./2021/05/18/)|77.03%|Medium|#python3, #golang|
