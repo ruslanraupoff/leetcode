@@ -26,3 +26,4 @@ LeetCode Algorithm Solution
 |[890](https://leetcode.com/problems/find-and-replace-pattern/)|[Find and Replace Pattern](./2021/05/21/)|94.38%|Medium|#python3, #golang|
 |[51](https://leetcode.com/problems/n-queens/)|[N-Queens](./2021/05/22/)|7.08%|Hard|#python3, #golang|
 |[943](https://leetcode.com/problems/find-the-shortest-superstring/)|[Find the Shortest Superstring](./2021/05/23/)|50.00%|Hard|#python3, #golang|
+|[709](https://leetcode.com/problems/to-lower-case/)|[To Lower Case](./2021/05/24/)|73.65%|Easy|#python3, #golang|
