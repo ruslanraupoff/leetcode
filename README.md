@@ -28,3 +28,4 @@ LeetCode Algorithm Solution
 |[943](https://leetcode.com/problems/find-the-shortest-superstring/)|[Find the Shortest Superstring](./2021/05/23/)|50.00%|Hard|#python3, #golang|
 |[709](https://leetcode.com/problems/to-lower-case/)|[To Lower Case](./2021/05/24/)|73.65%|Easy|#python3, #golang|
 |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Evaluate Reverse Polish Notation](./2021/05/25/)|91.75%|Medium|#python3, #golang|
+|[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Partitioning Into Minimum Number Of Deci-Binary Numbers](./2021/05/26/)|99.03%|Medium|#python3, #golang|
