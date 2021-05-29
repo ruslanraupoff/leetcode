@@ -31,3 +31,4 @@ LeetCode Algorithm Solution
 |[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Partitioning Into Minimum Number Of Deci-Binary Numbers](./2021/05/26/)|99.03%|Medium|#python3, #golang|
 |[318](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Maximum Product of Word Lengths](./2021/05/27/)|36.07%|Medium|#python3, #golang|
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)|[Maximum Erasure Value](./2021/05/28/)|84.18%|Medium|#python3, #golang|
+|[52](https://leetcode.com/problems/n-queens-ii/)|[N-Queens II](./2021/05/29/)|97.75%|Hard|#python3, #golang|
