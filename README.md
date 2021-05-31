@@ -33,3 +33,4 @@ LeetCode Algorithm Solution
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)|[Maximum Erasure Value](./2021/05/28/)|84.18%|Medium|#python3, #golang|
 |[52](https://leetcode.com/problems/n-queens-ii/)|[N-Queens II](./2021/05/29/)|97.75%|Hard|#python3, #golang|
 |[164](https://leetcode.com/problems/maximum-gap/)|[Maximum Gap](./2021/05/30/)|81.72%|Hard|#python3, #golang|
+|[1268](https://leetcode.com/problems/search-suggestions-system/)|[Search Suggestions System](./2021/05/31/)|32.66%|Medium|#python3, #golang|
