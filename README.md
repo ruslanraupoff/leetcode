@@ -34,3 +34,4 @@ LeetCode Algorithm Solution
 |[52](https://leetcode.com/problems/n-queens-ii/)|[N-Queens II](./2021/05/29/)|97.75%|Hard|#python3, #golang|
 |[164](https://leetcode.com/problems/maximum-gap/)|[Maximum Gap](./2021/05/30/)|81.72%|Hard|#python3, #golang|
 |[1268](https://leetcode.com/problems/search-suggestions-system/)|[Search Suggestions System](./2021/05/31/)|32.66%|Medium|#python3, #golang|
+|[695](https://leetcode.com/problems/max-area-of-island/)|[Max Area of Island](./2021/06/01/)|83.99%|Medium|#python3, #golang|
