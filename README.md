@@ -36,3 +36,4 @@ LeetCode Algorithm Solution
 |[1268](https://leetcode.com/problems/search-suggestions-system/)|[Search Suggestions System](./2021/05/31/)|32.66%|Medium|#python3, #golang|
 |[695](https://leetcode.com/problems/max-area-of-island/)|[Max Area of Island](./2021/06/01/)|83.99%|Medium|#python3, #golang|
 |[97](https://leetcode.com/problems/interleaving-string/)|[Interleaving String](./2021/06/02/)|73.16%|Medium|#python3, #golang|
+|[1465](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./2021/06/03/)|42.17%|Medium|#python3, #golang|
