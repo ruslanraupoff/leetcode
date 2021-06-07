@@ -40,3 +40,4 @@ LeetCode Algorithm Solution
 |[752](https://leetcode.com/problems/open-the-lock/)|[Open the Lock](./2021/06/04/)|32.99%|Medium|#python3, #golang|
 |[1383](https://leetcode.com/problems/maximum-performance-of-a-team/)|[Maximum Performance of a Team](./2021/06/05/)|21.85%|Hard|#python3, #golang|
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)|[Longest Consecutive Sequence](./2021/06/06/)|33.70%|Medium|#python3, #golang|
+|[746](https://leetcode.com/problems/longest-consecutive-sequence/)|[Min Cost Climbing Stairs](./2021/06/07/)|14.17%|Easy|#python3, #golang|
