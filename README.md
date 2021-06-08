@@ -41,3 +41,4 @@ LeetCode Algorithm Solution
 |[1383](https://leetcode.com/problems/maximum-performance-of-a-team/)|[Maximum Performance of a Team](./2021/06/05/)|21.85%|Hard|#python3, #golang|
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)|[Longest Consecutive Sequence](./2021/06/06/)|33.70%|Medium|#python3, #golang|
 |[746](https://leetcode.com/problems/longest-consecutive-sequence/)|[Min Cost Climbing Stairs](./2021/06/07/)|14.17%|Easy|#python3, #golang|
+|[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Construct Binary Tree from Preorder and Inorder Traversal](./2021/06/08/)|85.73%|Medium|#python3, #golang|
