@@ -43,3 +43,4 @@ LeetCode Algorithm Solution
 |[746](https://leetcode.com/problems/longest-consecutive-sequence/)|[Min Cost Climbing Stairs](./2021/06/07/)|14.17%|Easy|#python3, #golang|
 |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Construct Binary Tree from Preorder and Inorder Traversal](./2021/06/08/)|85.73%|Medium|#python3, #golang|
 |[1696](https://leetcode.com/problems/jump-game-vi/)|[Jump Game VI](./2021/06/09/)|16.76%|Medium|#python3, #golang|
+|[729](https://leetcode.com/problems/my-calendar-i/)|[My Calendar I](./2021/06/09/)|17.50%|Medium|#python3, #golang|
