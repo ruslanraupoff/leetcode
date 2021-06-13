@@ -45,4 +45,5 @@ LeetCode Algorithm Solution
 |[1696](https://leetcode.com/problems/jump-game-vi/)|[Jump Game VI](./2021/06/09/)|16.76%|Medium|#python3, #golang|
 |[729](https://leetcode.com/problems/my-calendar-i/)|[My Calendar I](./2021/06/10/)|17.50%|Medium|#python3, #golang|
 |[1690](https://leetcode.com/problems/stone-game-vii/)|[My Calendar I](./2021/06/11/)|81.76%|Medium|#python3, #golang|
-|[871](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Minimum Number of Refueling Stops](./2021/06/11/)|33.33%|Hard|#python3, #golang|
+|[871](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Minimum Number of Refueling Stops](./2021/06/12/)|33.33%|Hard|#python3, #golang|
+|[336](https://leetcode.com/problems/palindrome-pairs/)|[Palindrome Pairs](./2021/06/13/)|79.12%|Hard|#python3, #golang|
