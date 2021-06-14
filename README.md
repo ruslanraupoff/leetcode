@@ -47,3 +47,4 @@ LeetCode Algorithm Solution
 |[1690](https://leetcode.com/problems/stone-game-vii/)|[My Calendar I](./2021/06/11/)|81.76%|Medium|#python3, #golang|
 |[871](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Minimum Number of Refueling Stops](./2021/06/12/)|33.33%|Hard|#python3, #golang|
 |[336](https://leetcode.com/problems/palindrome-pairs/)|[Palindrome Pairs](./2021/06/13/)|79.12%|Hard|#python3, #golang|
+|[1710](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Maximum Units on a Truck](./2021/06/14/)|36.46%|Easy|#python3, #golang|
