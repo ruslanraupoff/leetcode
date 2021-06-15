@@ -48,3 +48,4 @@ LeetCode Algorithm Solution
 |[871](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Minimum Number of Refueling Stops](./2021/06/12/)|33.33%|Hard|#python3, #golang|
 |[336](https://leetcode.com/problems/palindrome-pairs/)|[Palindrome Pairs](./2021/06/13/)|79.12%|Hard|#python3, #golang|
 |[1710](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Maximum Units on a Truck](./2021/06/14/)|36.46%|Easy|#python3, #golang|
+|[473](https://leetcode.com/problems/matchsticks-to-square/)|[Matchsticks to Square](./2021/06/15/)|28.53%|Medium|#python3, #golang|
