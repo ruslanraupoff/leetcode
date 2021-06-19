@@ -52,3 +52,4 @@ LeetCode Algorithm Solution
 |[22](https://leetcode.com/problems/generate-parentheses/)|[Generate Parentheses](./2021/06/16/)|100%|Medium|#python3, #golang|
 |[795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Number of Subarrays with Bounded Maximum](./2021/06/17/)|93.33%|Medium|#python3, #golang|
 |[307](https://leetcode.com/problems/range-sum-query-mutable/)|[Range Sum Query - Mutable](./2021/06/18/)|99.44%|Medium|#python3, #golang|
+|[629](https://leetcode.com/problems/k-inverse-pairs-array/)|[K Inverse Pairs Array](./2021/06/19/)|47.94%|Hard|#python3, #golang|
