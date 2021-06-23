@@ -54,5 +54,7 @@ LeetCode Algorithm Solution
 |[307](https://leetcode.com/problems/range-sum-query-mutable/)|[Range Sum Query - Mutable](./2021/06/18/)|99.44%|Medium|#python3, #golang|
 |[629](https://leetcode.com/problems/k-inverse-pairs-array/)|[K Inverse Pairs Array](./2021/06/19/)|47.94%|Hard|#python3, #golang|
 |[778](https://leetcode.com/problems/swim-in-rising-water/)|[Swim in Rising Water](./2021/06/20/)|47.36%|Hard|#python3, #golang|
-|[118](https://leetcode.com/problems/pascals-triangle/)|[Swim in Rising Water](./2021/06/20/)|61.41%|Easy|#python3, #golang|
-|[792](https://leetcode.com/problems/number-of-matching-subsequences/)|[Number of Matching Subsequences](./2021/06/21/)|99.11%|Medium|#python3, #golang|
+|[118](https://leetcode.com/problems/pascals-triangle/)|[Swim in Rising Water](./2021/06/21/)|61.41%|Easy|#python3, #golang|
+|[792](https://leetcode.com/problems/number-of-matching-subsequences/)|[Number of Matching Subsequences](./2021/06/22/)|99.11%|Medium|#python3, #golang|
+|[92](https://leetcode.com/problems/reverse-linked-list-ii/)|[Reverse Linked List II](./2021/06/23/)|64.26%|Medium|#python3, #golang|
+
