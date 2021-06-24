@@ -57,4 +57,5 @@ LeetCode Algorithm Solution
 |[118](https://leetcode.com/problems/pascals-triangle/)|[Swim in Rising Water](./2021/06/21/)|61.41%|Easy|#python3, #golang|
 |[792](https://leetcode.com/problems/number-of-matching-subsequences/)|[Number of Matching Subsequences](./2021/06/22/)|99.11%|Medium|#python3, #golang|
 |[92](https://leetcode.com/problems/reverse-linked-list-ii/)|[Reverse Linked List II](./2021/06/23/)|64.26%|Medium|#python3, #golang|
+|[576](https://leetcode.com/problems/out-of-boundary-paths/)|[Out of Boundary Paths](./2021/06/24/)|100.00%|Medium|#python3, #golang|
 
