@@ -58,4 +58,5 @@ LeetCode Algorithm Solution
 |[792](https://leetcode.com/problems/number-of-matching-subsequences/)|[Number of Matching Subsequences](./2021/06/22/)|99.11%|Medium|#python3, #golang|
 |[92](https://leetcode.com/problems/reverse-linked-list-ii/)|[Reverse Linked List II](./2021/06/23/)|64.26%|Medium|#python3, #golang|
 |[576](https://leetcode.com/problems/out-of-boundary-paths/)|[Out of Boundary Paths](./2021/06/24/)|100.00%|Medium|#python3, #golang|
+|[684](https://leetcode.com/problems/redundant-connection/)|[Redundant Connection](./2021/06/25/)|88.15%|Medium|#python3, #golang|
 
