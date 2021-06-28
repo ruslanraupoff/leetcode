@@ -61,4 +61,5 @@ LeetCode Algorithm Solution
 |[684](https://leetcode.com/problems/redundant-connection/)|[Redundant Connection](./2021/06/25/)|88.15%|Medium|#python3, #golang|
 |[315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Count of Smaller Numbers After Self](./2021/06/26/)|74.53%|Hard|#python3, #golang|
 |[135](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Candy](./2021/06/27/)|96.20%|Hard|#python3, #golang|
+|[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Remove All Adjacent Duplicates In String](./2021/06/28/)|32.18%|Hard|#python3, #golang|
 
