@@ -6,3 +6,4 @@
 2021/*.json
 2021/contest
 2021/*/*/test.go
+.vscode

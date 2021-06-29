@@ -62,4 +62,5 @@ LeetCode Algorithm Solution
 |[315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Count of Smaller Numbers After Self](./2021/06/26/)|74.53%|Hard|#python3, #golang|
 |[135](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Candy](./2021/06/27/)|96.20%|Hard|#python3, #golang|
 |[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Remove All Adjacent Duplicates In String](./2021/06/28/)|32.18%|Hard|#python3, #golang|
+|[1004](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Max Consecutive Ones III](./2021/06/29/)|79.39%|Medium|#python3, #golang|
 
