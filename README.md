@@ -64,4 +64,5 @@ LeetCode Algorithm Solution
 |[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Remove All Adjacent Duplicates In String](./2021/06/28/)|32.18%|Hard|#python3, #golang|
 |[1004](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Max Consecutive Ones III](./2021/06/29/)|79.39%|Medium|#python3, #golang|
 |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Lowest Common Ancestor of a Binary Tree](./2021/06/30/)|94.57%|Medium|#python3, #golang|
+|[89](https://leetcode.com/problems/gray-code/)|[Gray Code](./2021/07/01/)|62.44%|Medium|#python3, #golang|
 
