@@ -66,4 +66,5 @@ LeetCode Algorithm Solution
 |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Lowest Common Ancestor of a Binary Tree](./2021/06/30/)|94.57%|Medium|#python3, #golang|
 |[89](https://leetcode.com/problems/gray-code/)|[Gray Code](./2021/07/01/)|62.44%|Medium|#python3, #golang|
 |[658](https://leetcode.com/problems/find-k-closest-elements/)|[Find K Closest Elements](./2021/07/02/)|97.01%|Medium|#python3, #golang|
-
+|[363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Max Sum of Rectangle No Larger Than K](./2021/07/03/)|41.62%|Hard|#python3, #golang|
+|[1220](https://leetcode.com/problems/count-vowels-permutation/)|[Count Vowels Permutation](./2021/07/04/)|73.71%|Hard|#python3, #golang|
