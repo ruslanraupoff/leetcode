@@ -69,3 +69,4 @@ LeetCode Algorithm Solution
 |[363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Max Sum of Rectangle No Larger Than K](./2021/07/03/)|41.62%|Hard|#python3, #golang|
 |[1220](https://leetcode.com/problems/count-vowels-permutation/)|[Count Vowels Permutation](./2021/07/04/)|73.71%|Hard|#python3, #golang|
 |[566](https://leetcode.com/problems/reshape-the-matrix/)|[Reshape the Matrix](./2021/07/05/)|61.29%|Easy|#python3, #golang|
+|[1338](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Reduce Array Size to The Half](./2021/07/06/)|75.61%|Medium|#python3, #golang|
