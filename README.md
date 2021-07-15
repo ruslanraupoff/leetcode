@@ -72,3 +72,10 @@ LeetCode Algorithm Solution
 |[1338](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Reduce Array Size to The Half](./2021/07/06/)|75.61%|Medium|#python3, #golang|
 |[378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Kth Smallest Element in a Sorted Matrix](./2021/07/07/)|93.08%|Medium|#python3, #golang|
 |[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Maximum Length of Repeated Subarray](./2021/07/08/)|67.06%|Medium|#python3, #golang|
+|[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Longest Increasing Subsequence](./2021/07/09/)|67.06%|Medium|#python3, #golang|
+|[639](https://leetcode.com/problems/decode-ways-ii/)|[Decode Ways II](./2021/07/10/)|67.06%|Hard|#python3, #golang|
+|[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Find Median from Data Stream](./2021/07/11/)|19.38%|Medium|#python3, #golang|
+|[205](https://leetcode.com/problems/isomorphic-strings/)|[Isomorphic Strings](./2021/07/12/)|59.26%|Easy|#python3, #golang|
+|[162](https://leetcode.com/problems/find-peak-element/)|[Find Peak Element](./2021/07/13/)|98.30%|Medium|#python3, #golang|
+|[791](https://leetcode.com/problems/custom-sort-string/)|[Custom Sort String](./2021/07/14/)|85.70%|Medium|#python3, #golang|
+|[611](https://leetcode.com/problems/valid-triangle-number/)|[Valid Triangle Number](./2021/07/15/)|81.14%|Medium|#python3, #golang|
