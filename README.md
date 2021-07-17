@@ -79,4 +79,5 @@ LeetCode Algorithm Solution
 |[162](https://leetcode.com/problems/find-peak-element/)|[Find Peak Element](./2021/07/13/)|98.30%|Medium|#python3, #golang|
 |[791](https://leetcode.com/problems/custom-sort-string/)|[Custom Sort String](./2021/07/14/)|85.70%|Medium|#python3, #golang|
 |[611](https://leetcode.com/problems/valid-triangle-number/)|[Valid Triangle Number](./2021/07/15/)|81.14%|Medium|#python3, #golang|
-|[18](https://leetcode.com/problems/4sum)|[4Sum](./2021/07/16/)|31.72%|Medium|#python3, #golang|
+|[18](https://leetcode.com/problems/4sum/)|[4Sum](./2021/07/16/)|31.72%|Medium|#python3, #golang|
+|[927](https://leetcode.com/problems/three-equal-parts/)|[Three Equal Parts](./2021/07/17/)|76.84%|Medium|#python3, #golang|
