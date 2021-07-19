@@ -82,3 +82,4 @@ LeetCode Algorithm Solution
 |[18](https://leetcode.com/problems/4sum/)|[4Sum](./2021/07/16/)|31.72%|Medium|#python3, #golang|
 |[927](https://leetcode.com/problems/three-equal-parts/)|[Three Equal Parts](./2021/07/17/)|76.84%|Hard|#python3, #golang|
 |[25](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Reverse Nodes in k-Group](./2021/07/18/)|79.37%|Hard|#python3, #golang|
+|[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Lowest Common Ancestor of a Binary Tree](./2021/07/19/)|76.35%|Medium|#python3, #golang|
