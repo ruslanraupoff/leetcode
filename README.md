@@ -85,3 +85,4 @@ LeetCode Algorithm Solution
 |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Lowest Common Ancestor of a Binary Tree](./2021/07/19/)|76.35%|Medium|#python3, #golang|
 |[384](https://leetcode.com/problems/shuffle-an-array/)|[Shuffle an Array](./2021/07/20/)|99.88%|Medium|#python3, #golang|
 |[838](https://leetcode.com/problems/push-dominoes/)|[Push Dominoes](./2021/07/21/)|56.05%|Medium|#python3, #golang|
+|[915](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Partition Array into Disjoint Intervals](./2021/07/22/)|76.97%|Medium|#python3, #golang|
