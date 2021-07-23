@@ -86,3 +86,4 @@ LeetCode Algorithm Solution
 |[384](https://leetcode.com/problems/shuffle-an-array/)|[Shuffle an Array](./2021/07/20/)|99.88%|Medium|#python3, #golang|
 |[838](https://leetcode.com/problems/push-dominoes/)|[Push Dominoes](./2021/07/21/)|56.05%|Medium|#python3, #golang|
 |[915](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Partition Array into Disjoint Intervals](./2021/07/22/)|76.97%|Medium|#python3, #golang|
+|[814](https://leetcode.com/problems/binary-tree-pruning/)|[Binary Tree Pruning](./2021/07/23/)|63.33%|Medium|#python3, #golang|
