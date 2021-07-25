@@ -88,3 +88,4 @@ LeetCode Algorithm Solution
 |[915](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Partition Array into Disjoint Intervals](./2021/07/22/)|76.97%|Medium|#python3, #golang|
 |[814](https://leetcode.com/problems/binary-tree-pruning/)|[Binary Tree Pruning](./2021/07/23/)|63.33%|Medium|#python3, #golang|
 |[126](https://leetcode.com/problems/word-ladder-ii/)|[Word Ladder II](./2021/07/24/)|21.36%|Hard|#python3, #golang|
+|[600](https://leetcode.com/problems/word-ladder-ii/)|[Non-negative Integers without Consecutive Ones](./2021/07/25/)|52.56%|Hard|#python3, #golang|
