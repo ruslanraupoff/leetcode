@@ -92,3 +92,4 @@ LeetCode Algorithm Solution
 |[108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Convert Sorted Array to Binary Search Tree](./2021/07/26/)|70.85%|Easy|#python3, #golang|
 |[16](https://leetcode.com/problems/3sum-closest/)|[3Sum Closest](./2021/07/27/)|88.41%|Easy|#python3, #golang|
 |[932](https://leetcode.com/problems/beautiful-array/)|[Beautiful Array](./2021/07/28/)|75.71%|Medium|#python3, #golang|
+|[542](https://leetcode.com/problems/01-matrix/)|[01 Matrix](./2021/07/29/)|92.83%|Medium|#python3, #golang|
