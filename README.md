@@ -94,3 +94,4 @@ LeetCode Algorithm Solution
 |[932](https://leetcode.com/problems/beautiful-array/)|[Beautiful Array](./2021/07/28/)|75.71%|Medium|#python3, #golang|
 |[542](https://leetcode.com/problems/01-matrix/)|[01 Matrix](./2021/07/29/)|92.83%|Medium|#python3, #golang|
 |[677](https://leetcode.com/problems/map-sum-pairs/)|[Map Sum Pairs](./2021/07/30/)|38.96%|Medium|#python3, #golang|
+|[42](https://leetcode.com/problems/trapping-rain-water/)|[Trapping Rain Water](./2021/07/31/)|62.04%|Hard|#python3, #golang|
