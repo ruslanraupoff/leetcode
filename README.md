@@ -95,3 +95,5 @@ LeetCode Algorithm Solution
 |[542](https://leetcode.com/problems/01-matrix/)|[01 Matrix](./2021/07/29/)|92.83%|Medium|#python3, #golang|
 |[677](https://leetcode.com/problems/map-sum-pairs/)|[Map Sum Pairs](./2021/07/30/)|38.96%|Medium|#python3, #golang|
 |[42](https://leetcode.com/problems/trapping-rain-water/)|[Trapping Rain Water](./2021/07/31/)|62.04%|Hard|#python3, #golang|
+|[827](https://leetcode.com/problems/making-a-large-island/)|[Making A Large Island](./2021/08/01/)|16.19%|Hard|#python3, #golang|
+|[1](https://leetcode.com/problems/two-sum/)|[Two Sum](./2021/08/02/)|89.43%|Hard|#python3, #golang|
