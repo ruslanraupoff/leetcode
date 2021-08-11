@@ -105,3 +105,4 @@ LeetCode Algorithm Solution
 |[1632](https://leetcode.com/problems/rank-transform-of-a-matrix/)|[Rank Transform of a Matrix](./2021/08/08/)|59.77%|Hard|#python3, #golang|
 |[415](https://leetcode.com/problems/add-strings/)|[Add Strings](./2021/08/09/)|91.77%|Easy|#python3, #golang|
 |[926](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Flip String to Monotone Increasing](./2021/08/10/)|20.7%|Medium|#python3, #golang|
+|[954](https://leetcode.com/problems/array-of-doubled-pairs/)|[Array of Doubled Pairs](./2021/08/11/)|66.67%|Medium|#python3, #golang|
