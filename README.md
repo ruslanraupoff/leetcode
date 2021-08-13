@@ -99,7 +99,7 @@ LeetCode Algorithm Solution
 |[1](https://leetcode.com/problems/two-sum/)|[Two Sum](./2021/08/02/)|89.43%|Hard|#python3, #golang|
 |[90](https://leetcode.com/problems/subsets-ii/)|[Subsets II](./2021/08/03/)|73.73%|Medium|#python3, #golang|
 |[113](https://leetcode.com/problems/path-sum-ii/)|[Path Sum II](./2021/08/04/)|97.15%|Medium|#python3, #golang|
-|[877](https://leetcode.com/problems/stone-game/|[Stone Game](./2021/08/05/)|35.11%|Medium|#python3, #golang|
+|[877](https://leetcode.com/problems/stone-game/)|[Stone Game](./2021/08/05/)|35.11%|Medium|#python3, #golang|
 |[429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[N-ary Tree Level Order Traversal](./2021/08/06/)|30.64%|Medium|#python3, #golang|
 |[132](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Palindrome Partitioning II](./2021/08/07/)|73.56%|Hard|#python3, #golang|
 |[1632](https://leetcode.com/problems/rank-transform-of-a-matrix/)|[Rank Transform of a Matrix](./2021/08/08/)|59.77%|Hard|#python3, #golang|
@@ -107,4 +107,4 @@ LeetCode Algorithm Solution
 |[926](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Flip String to Monotone Increasing](./2021/08/10/)|20.7%|Medium|#python3, #golang|
 |[954](https://leetcode.com/problems/array-of-doubled-pairs/)|[Array of Doubled Pairs](./2021/08/11/)|66.67%|Medium|#python3, #golang|
 |[49](https://leetcode.com/problems/group-anagrams/)|[Group Anagrams](./2021/08/12/)|89.79%|Medium|#python3, #golang|
-|[73](https://leetcode.com/problems/set-matrix-zeroes/)|[Set Matrix Zeroes](./2021/08/12/)|74.68%|Medium|#python3, #golang|
+|[73](https://leetcode.com/problems/set-matrix-zeroes/)|[Set Matrix Zeroes](./2021/08/13/)|74.68%|Medium|#python3, #golang|
