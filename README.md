@@ -106,3 +106,5 @@ LeetCode Algorithm Solution
 |[415](https://leetcode.com/problems/add-strings/)|[Add Strings](./2021/08/09/)|91.77%|Easy|#python3, #golang|
 |[926](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Flip String to Monotone Increasing](./2021/08/10/)|20.7%|Medium|#python3, #golang|
 |[954](https://leetcode.com/problems/array-of-doubled-pairs/)|[Array of Doubled Pairs](./2021/08/11/)|66.67%|Medium|#python3, #golang|
+|[49](https://leetcode.com/problems/group-anagrams/)|[Group Anagrams](./2021/08/12/)|89.79%|Medium|#python3, #golang|
+|[73](https://leetcode.com/problems/set-matrix-zeroes/)|[Set Matrix Zeroes](./2021/08/12/)|74.68%|Medium|#python3, #golang|
