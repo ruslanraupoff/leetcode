@@ -108,4 +108,5 @@ LeetCode Algorithm Solution
 |[954](https://leetcode.com/problems/array-of-doubled-pairs/)|[Array of Doubled Pairs](./2021/08/11/)|66.67%|Medium|#python3, #golang|
 |[49](https://leetcode.com/problems/group-anagrams/)|[Group Anagrams](./2021/08/12/)|89.79%|Medium|#python3, #golang|
 |[73](https://leetcode.com/problems/set-matrix-zeroes/)|[Set Matrix Zeroes](./2021/08/13/)|74.68%|Medium|#python3, #golang|
-|[546](https://leetcode.com/problems/remove-boxes/)|[Remove Boxes](./2021/08/14/)|75.89%|Medium|#python3, #golang|
+|[546](https://leetcode.com/problems/remove-boxes/)|[Remove Boxes](./2021/08/14/)|75.89%|Hard|#python3, #golang|
+|[76](https://leetcode.com/problems/minimum-window-substring/)|[Minimum Window Substring](./2021/08/15/)|90.31%|Hard|#python3, #golang|
