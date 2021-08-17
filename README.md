@@ -111,3 +111,4 @@ LeetCode Algorithm Solution
 |[546](https://leetcode.com/problems/remove-boxes/)|[Remove Boxes](./2021/08/14/)|75.89%|Hard|#python3, #golang|
 |[76](https://leetcode.com/problems/minimum-window-substring/)|[Minimum Window Substring](./2021/08/15/)|90.31%|Hard|#python3, #golang|
 |[303](https://leetcode.com/problems/range-sum-query-immutable/)|[Range Sum Query - Immutable](./2021/08/16/)|38.56%|Easy|#python3, #golang|
+|[1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Count Good Nodes in Binary Tree](./2021/08/17/)|78.21%|Medium|#python3, #golang|
