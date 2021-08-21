@@ -114,3 +114,5 @@ LeetCode Algorithm Solution
 |[1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Count Good Nodes in Binary Tree](./2021/08/17/)|78.21%|Medium|#python3, #golang|
 |[91](https://leetcode.com/problems/decode-ways/)|[Decode Ways](./2021/08/18/)|67.90%|Medium|#python3, #golang|
 |[1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[Maximum Product of Splitted Binary Tree](./2021/08/19/)|10.45%|Medium|#python3, #golang|
+|[36](https://leetcode.com/problems/valid-sudoku/)|[Valid Sudoku](./2021/08/20/)|95.70%|Medium|#python3, #golang|
+|[37](https://leetcode.com/problems/sudoku-solver/)|[Sudoku Solver](./2021/08/21/)|38.13%|Hard|#python3, #golang|
