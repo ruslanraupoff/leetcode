@@ -121,3 +121,4 @@ LeetCode Algorithm Solution
 |[537](https://leetcode.com/problems/complex-number-multiplication/)|[Complex Number Multiplication](./2021/08/24/)|50.56%|Medium|#python3, #golang|
 |[633](https://leetcode.com/problems/sum-of-square-numbers/)|[Sum of Square Numbers](./2021/08/25/)|99.32%|Medium|#python3, #golang|
 |[331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[Verify Preorder Serialization of a Binary Tree](./2021/08/26/)|30.00%|Medium|#python3, #golang|
+|[522](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[Longest Uncommon Subsequence II](./2021/08/27/)|23.72%|Medium|#python3, #golang|
