@@ -123,3 +123,4 @@ LeetCode Algorithm Solution
 |[331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[Verify Preorder Serialization of a Binary Tree](./2021/08/26/)|30.00%|Medium|#python3, #golang|
 |[522](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[Longest Uncommon Subsequence II](./2021/08/27/)|23.72%|Medium|#python3, #golang|
 |[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Maximum Profit in Job Scheduling](./2021/08/28/)|93.48%|Hard|#python3, #golang|
+|[330](https://leetcode.com/problems/patching-array/)|[Patching Array](./2021/08/29/)|68.39%|Hard|#python3, #golang|
