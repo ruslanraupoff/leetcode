@@ -124,3 +124,4 @@ LeetCode Algorithm Solution
 |[522](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[Longest Uncommon Subsequence II](./2021/08/27/)|23.72%|Medium|#python3, #golang|
 |[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Maximum Profit in Job Scheduling](./2021/08/28/)|93.48%|Hard|#python3, #golang|
 |[330](https://leetcode.com/problems/patching-array/)|[Patching Array](./2021/08/29/)|68.39%|Hard|#python3, #golang|
+|[598](https://leetcode.com/problems/range-addition-ii/)|[Range Addition II](./2021/08/30/)|45.18%|Easy|#python3, #golang|
