@@ -125,3 +125,4 @@ LeetCode Algorithm Solution
 |[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Maximum Profit in Job Scheduling](./2021/08/28/)|93.48%|Hard|#python3, #golang|
 |[330](https://leetcode.com/problems/patching-array/)|[Patching Array](./2021/08/29/)|68.39%|Hard|#python3, #golang|
 |[598](https://leetcode.com/problems/range-addition-ii/)|[Range Addition II](./2021/08/30/)|45.18%|Easy|#python3, #golang|
+|[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Find Minimum in Rotated Sorted Array](./2021/08/31/)|35.37%|Medium|#python3, #golang|
