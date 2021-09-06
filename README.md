@@ -131,3 +131,4 @@ LeetCode Algorithm Solution
 |[587](https://leetcode.com/problems/erect-the-fence/)|[Erect the Fence](./2021/09/03/)|29.07%|Hard|#python3, #golang|
 |[834](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Sum of Distances in Tree](./2021/09/04/)|21.23%|Hard|#python3, #golang|
 |[899](https://leetcode.com/problems/orderly-queue/)|[Orderly Queue](./2021/09/05/)|87.91%|Hard|#python3, #golang|
+|[1629](https://leetcode.com/problems/slowest-key/)|[Slowest Key](./2021/09/06/)|42.29%|Easy|#python3, #golang|
