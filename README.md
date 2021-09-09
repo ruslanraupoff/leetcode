@@ -134,3 +134,4 @@ LeetCode Algorithm Solution
 |[1629](https://leetcode.com/problems/slowest-key/)|[Slowest Key](./2021/09/06/)|42.29%|Easy|#python3, #golang|
 |[206](https://leetcode.com/problems/reverse-linked-list/)|[Reverse Linked List](./2021/09/07/)|97.06%|Easy|#python3, #golang|
 |[848](https://leetcode.com/problems/shifting-letters/)|[Shifting Letters](./2021/09/08/)|23.85%|Medium|#python3, #golang|
+|[764](https://leetcode.com/problems/largest-plus-sign/)|[Largest Plus Sign](./2021/09/09/)|61.62%|Medium|#python3, #golang|
