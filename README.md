@@ -140,3 +140,4 @@ LeetCode Algorithm Solution
 |[882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[Reachable Nodes In Subdivided Graph](./2021/09/12/)|18.25%|Hard|#python3, #golang|
 |[1189](https://leetcode.com/problems/maximum-number-of-balloons/)|[Maximum Number of Balloons](./2021/09/13/)|78.37%|Easy|#python3, #golang|
 |[917](https://leetcode.com/problems/reverse-only-letters/)|[Reverse Only Letters](./2021/09/14/)|98.77%|Easy|#python3, #golang|
+|[978](https://leetcode.com/problems/longest-turbulent-subarray/)|[Longest Turbulent Subarray](./2021/09/15/)|70.76%|Medium|#python3, #golang|
