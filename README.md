@@ -142,3 +142,4 @@ LeetCode Algorithm Solution
 |[917](https://leetcode.com/problems/reverse-only-letters/)|[Reverse Only Letters](./2021/09/14/)|98.77%|Easy|#python3, #golang|
 |[978](https://leetcode.com/problems/longest-turbulent-subarray/)|[Longest Turbulent Subarray](./2021/09/15/)|70.76%|Medium|#python3, #golang|
 |[54](https://leetcode.com/problems/spiral-matrix/)|[Spiral Matrix](./2021/09/16/)|14.14%|Medium|#python3, #golang|
+|[350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Intersection of Two Arrays II](./2021/09/17/)|32.78%|Easy|#python3, #golang|
