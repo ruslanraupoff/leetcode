@@ -145,3 +145,4 @@ LeetCode Algorithm Solution
 |[350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Intersection of Two Arrays II](./2021/09/17/)|32.78%|Easy|#python3, #golang|
 |[282](https://leetcode.com/problems/expression-add-operators/)|[Expression Add Operators](./2021/09/18/)|75.97%|Hard|#python3, #golang|
 |[115](https://leetcode.com/problems/distinct-subsequences/)|[Distinct Subsequences](./2021/09/19/)|87.47%|Hard|#python3, #golang|
+|[1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Find Winner on a Tic Tac Toe Game](./2021/09/20/)|23.60%|Easy|#python3, #golang|
