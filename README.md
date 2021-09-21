@@ -146,3 +146,4 @@ LeetCode Algorithm Solution
 |[282](https://leetcode.com/problems/expression-add-operators/)|[Expression Add Operators](./2021/09/18/)|75.97%|Hard|#python3, #golang|
 |[115](https://leetcode.com/problems/distinct-subsequences/)|[Distinct Subsequences](./2021/09/19/)|87.47%|Hard|#python3, #golang|
 |[1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Find Winner on a Tic Tac Toe Game](./2021/09/20/)|23.60%|Easy|#python3, #golang|
+|[485](https://leetcode.com/problems/max-consecutive-ones/)|[Max Consecutive Ones](./2021/09/21/)|51.96%|Easy|#python3, #golang|
