@@ -148,3 +148,4 @@ LeetCode Algorithm Solution
 |[1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Find Winner on a Tic Tac Toe Game](./2021/09/20/)|23.60%|Easy|#python3, #golang|
 |[485](https://leetcode.com/problems/max-consecutive-ones/)|[Max Consecutive Ones](./2021/09/21/)|51.96%|Easy|#python3, #golang|
 |[1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Maximum Length of a Concatenated String with Unique Characters](./2021/09/22/)|66.60%|Medium|#python3, #golang|
+|[1328](https://leetcode.com/problems/break-a-palindrome/)|[Break a Palindrome](./2021/09/23/)|94.06%|Medium|#python3, #golang|
