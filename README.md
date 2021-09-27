@@ -152,3 +152,4 @@ LeetCode Algorithm Solution
 |[1137](https://leetcode.com/problems/n-th-tribonacci-number/)|[N-th Tribonacci Number](./2021/09/24/)|83.68%|Easy|#python3, #golang|
 |[1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Shortest Path in a Grid with Obstacles Elimination](./2021/09/25/)|47.50%|Hard|#python3, #golang|
 |[782](https://leetcode.com/problems/transform-to-chessboard/)|[Transform to Chessboard](./2021/09/26/)|62.86%|Hard|#python3, #golang|
+|[929](https://leetcode.com/problems/unique-email-addresses/)|[Unique Email Addresses](./2021/09/27/)|87.08%|Easy|#python3, #golang|
