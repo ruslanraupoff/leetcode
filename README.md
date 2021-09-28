@@ -153,3 +153,4 @@ LeetCode Algorithm Solution
 |[1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Shortest Path in a Grid with Obstacles Elimination](./2021/09/25/)|47.50%|Hard|#python3, #golang|
 |[782](https://leetcode.com/problems/transform-to-chessboard/)|[Transform to Chessboard](./2021/09/26/)|62.86%|Hard|#python3, #golang|
 |[929](https://leetcode.com/problems/unique-email-addresses/)|[Unique Email Addresses](./2021/09/27/)|87.08%|Easy|#python3, #golang|
+|[922](https://leetcode.com/problems/sort-array-by-parity-ii)|[Sort Array By Parity II](./2021/09/28/)|99.68%|Easy|#python3, #golang|
