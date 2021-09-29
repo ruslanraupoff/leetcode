@@ -154,3 +154,4 @@ LeetCode Algorithm Solution
 |[782](https://leetcode.com/problems/transform-to-chessboard/)|[Transform to Chessboard](./2021/09/26/)|62.86%|Hard|#python3, #golang|
 |[929](https://leetcode.com/problems/unique-email-addresses/)|[Unique Email Addresses](./2021/09/27/)|87.08%|Easy|#python3, #golang|
 |[922](https://leetcode.com/problems/sort-array-by-parity-ii)|[Sort Array By Parity II](./2021/09/28/)|99.68%|Easy|#python3, #golang|
+|[725](https://leetcode.com/problems/split-linked-list-in-parts/)|[Split Linked List in Parts](./2021/09/29/)|65.79%|Medium|#python3, #golang|
