@@ -155,5 +155,6 @@ LeetCode Algorithm Solution
 |[929](https://leetcode.com/problems/unique-email-addresses/)|[Unique Email Addresses](./2021/09/27/)|87.08%|Easy|#python3, #golang|
 |[922](https://leetcode.com/problems/sort-array-by-parity-ii)|[Sort Array By Parity II](./2021/09/28/)|99.68%|Easy|#python3, #golang|
 |[725](https://leetcode.com/problems/split-linked-list-in-parts/)|[Split Linked List in Parts](./2021/09/29/)|65.79%|Medium|#python3, #golang|
-|[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Partition to K Equal Sum Subsets](./2021/09/30/)|76.13%|Medium|#python3, #golang|
+|[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Partition to K Equal Sum Subsets](./2021/09/30/)|76.13%|Medium|#python3, #golang| 
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)|[Longest Common Subsequence](./2021/10/01/)|95.48%|Medium|#python3, #golang|
+|[174](https://leetcode.com/problems/dungeon-game/)|[Dungeon Game](./2021/10/02/)|24.18%|Hard|#python3, #golang|
