@@ -158,3 +158,5 @@ LeetCode Algorithm Solution
 |[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Partition to K Equal Sum Subsets](./2021/09/30/)|76.13%|Medium|#python3, #golang| 
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)|[Longest Common Subsequence](./2021/10/01/)|95.48%|Medium|#python3, #golang|
 |[174](https://leetcode.com/problems/dungeon-game/)|[Dungeon Game](./2021/10/02/)|24.18%|Hard|#python3, #golang|
+|[55](https://leetcode.com/problems/jump-game/)|[Jump Game](./2021/10/03/)|30.06%|Medium|#python3, #golang|
+|[463](https://leetcode.com/problems/island-perimeter/)|[Island Perimeter](./2021/10/04/)|61.43%|Medium|#python3, #golang|
