@@ -160,3 +160,4 @@ LeetCode Algorithm Solution
 |[174](https://leetcode.com/problems/dungeon-game/)|[Dungeon Game](./2021/10/02/)|24.18%|Hard|#python3, #golang|
 |[55](https://leetcode.com/problems/jump-game/)|[Jump Game](./2021/10/03/)|30.06%|Medium|#python3, #golang|
 |[463](https://leetcode.com/problems/island-perimeter/)|[Island Perimeter](./2021/10/04/)|61.43%|Medium|#python3, #golang|
+|[70](https://leetcode.com/problems/climbing-stairs/)|[Climbing Stairs](./2021/10/05/)|60.32%|Easy|#python3, #golang|
