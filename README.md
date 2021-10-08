@@ -163,3 +163,4 @@ LeetCode Algorithm Solution
 |[70](https://leetcode.com/problems/climbing-stairs/)|[Climbing Stairs](./2021/10/05/)|60.32%|Easy|#python3, #golang|
 |[442](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Find All Duplicates in an Array](./2021/10/06/)|8.34%|Medium|#python3, #golang|
 |[79](https://leetcode.com/problems/word-search/)|[Word Search](./2021/10/07/)|84.14%|Medium|#python3, #golang|
+|[208](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](./2021/10/08/)|05.53%|Medium|#python3, #golang|
