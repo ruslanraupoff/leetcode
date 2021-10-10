@@ -164,3 +164,5 @@ LeetCode Algorithm Solution
 |[442](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Find All Duplicates in an Array](./2021/10/06/)|8.34%|Medium|#python3, #golang|
 |[79](https://leetcode.com/problems/word-search/)|[Word Search](./2021/10/07/)|84.14%|Medium|#python3, #golang|
 |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](./2021/10/08/)|05.53%|Medium|#python3, #golang|
+|[212](https://leetcode.com/problems/word-search-ii/)|[Word Search II](./2021/10/09/)|60.78%|Hard|#python3, #golang|
+|[201](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Bitwise AND of Numbers Range](./2021/10/10/)|58.39%|Medium|#python3, #golang|
