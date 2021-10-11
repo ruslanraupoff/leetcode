@@ -166,3 +166,4 @@ LeetCode Algorithm Solution
 |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](./2021/10/08/)|05.53%|Medium|#python3, #golang|
 |[212](https://leetcode.com/problems/word-search-ii/)|[Word Search II](./2021/10/09/)|60.78%|Hard|#python3, #golang|
 |[201](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Bitwise AND of Numbers Range](./2021/10/10/)|58.39%|Medium|#python3, #golang|
+|[543](https://leetcode.com/problems/diameter-of-binary-tree/)|[Diameter of Binary Tree](./2021/10/11/)|75.36%|Easy|#python3, #golang|
