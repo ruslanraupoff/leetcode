@@ -174,3 +174,4 @@ LeetCode Algorithm Solution
 |[123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Best Time to Buy and Sell Stock III](./2021/10/16/)|63.98%|Hard|#python3, #golang|
 |[437](https://leetcode.com/problems/path-sum-iii/)|[Path Sum III](./2021/10/17/)|19.89%|Medium|#python3, #golang|
 |[993](https://leetcode.com/problems/cousins-in-binary-tree/)|[Cousins in Binary Tree](./2021/10/18/)|16.03%|Easy|#python3, #golang|
+|[496](https://leetcode.com/problems/next-greater-element-i/)|[Next Greater Element I](./2021/10/18/)|26.85%|Easy|#python3, #golang|
