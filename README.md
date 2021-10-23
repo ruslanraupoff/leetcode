@@ -177,3 +177,5 @@ LeetCode Algorithm Solution
 |[496](https://leetcode.com/problems/next-greater-element-i/)|[Next Greater Element I](./2021/10/19/)|26.85%|Easy|#python3, #golang|
 |[151](https://leetcode.com/problems/reverse-words-in-a-string/)|[Reverse Words in a String](./2021/10/20/)|81.06%|Medium|#python3, #golang|
 |[380](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Insert Delete GetRandom O(1)](./2021/10/21/)|50.84%|Medium|#python3, #golang|
+|[451](https://leetcode.com/problems/sort-characters-by-frequency/)|[Sort Characters By Frequency](./2021/10/22/)|36.42%|Medium|#python3, #golang|
+|[154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Find Minimum in Rotated Sorted Array II](./2021/10/23/)|36.28%|Hard|#python3, #golang|
