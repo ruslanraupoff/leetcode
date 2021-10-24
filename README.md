@@ -179,3 +179,4 @@ LeetCode Algorithm Solution
 |[380](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Insert Delete GetRandom O(1)](./2021/10/21/)|50.84%|Medium|#python3, #golang|
 |[451](https://leetcode.com/problems/sort-characters-by-frequency/)|[Sort Characters By Frequency](./2021/10/22/)|36.42%|Medium|#python3, #golang|
 |[154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Find Minimum in Rotated Sorted Array II](./2021/10/23/)|36.28%|Hard|#python3, #golang|
+|[222](https://leetcode.com/problems/count-complete-tree-nodes/)|[Count Complete Tree Nodes](./2021/10/24/)|40.10%|Medium|#python3, #golang|
