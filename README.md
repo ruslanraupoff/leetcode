@@ -181,3 +181,4 @@ LeetCode Algorithm Solution
 |[154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Find Minimum in Rotated Sorted Array II](./2021/10/23/)|36.28%|Hard|#python3, #golang|
 |[222](https://leetcode.com/problems/count-complete-tree-nodes/)|[Count Complete Tree Nodes](./2021/10/24/)|40.10%|Medium|#python3, #golang|
 |[155](https://leetcode.com/problems/min-stack/)|[Min Stack](./2021/10/25/)|47.47%|Easy|#python3, #golang|
+|[226](https://leetcode.com/problems/invert-binary-tree/)|[Invert Binary Tree](./2021/10/26/)|76.07%|Easy|#python3, #golang|
