@@ -183,3 +183,4 @@ LeetCode Algorithm Solution
 |[155](https://leetcode.com/problems/min-stack/)|[Min Stack](./2021/10/25/)|47.47%|Easy|#python3, #golang|
 |[226](https://leetcode.com/problems/invert-binary-tree/)|[Invert Binary Tree](./2021/10/26/)|76.07%|Easy|#python3, #golang|
 |[75](https://leetcode.com/problems/sort-colors/)|[Sort Colors](./2021/10/27/)|83.16%|Medium|#python3, #golang|
+|[15](https://leetcode.com/problems/3sum/)|[3Sum](./2021/10/28/)|98.15%|Medium|#python3, #golang|
