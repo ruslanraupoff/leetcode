@@ -185,3 +185,5 @@ LeetCode Algorithm Solution
 |[75](https://leetcode.com/problems/sort-colors/)|[Sort Colors](./2021/10/27/)|83.16%|Medium|#python3, #golang|
 |[15](https://leetcode.com/problems/3sum/)|[3Sum](./2021/10/28/)|98.15%|Medium|#python3, #golang|
 |[994](https://leetcode.com/problems/rotting-oranges/)|[Rotting Oranges](./2021/10/29/)|97.47%|Medium|#python3, #golang|
+|[1044](https://leetcode.com/problems/longest-duplicate-substring/)|[Longest Duplicate Substring](./2021/10/30/)|48.35%|Hard|#python3, #golang|
+|[430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Flatten a Multilevel Doubly Linked List](./2021/10/31/)|91.14%|Medium|#python3, #golang|
