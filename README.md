@@ -195,3 +195,4 @@ LeetCode Algorithm Solution
 |[260](https://leetcode.com/problems/single-number-iii/)|[Single Number III](./2021/11/06/)42.75%|Easy|#python3, #golang|
 |[43](https://leetcode.com/problems/multiply-strings/)|[Multiply Strings](./2021/11/07/)49.21%|Medium|#python3, #golang|
 |[96](https://leetcode.com/problems/unique-binary-search-trees/)|[Unique Binary Search Trees](./2021/11/08/)5.44%|Medium|#python3, #golang|
+|[1178](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Number of Valid Words for Each Puzzle](./2021/11/09/)94.34%|Medium|#python3, #golang|
