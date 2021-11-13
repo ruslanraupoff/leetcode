@@ -199,3 +199,4 @@ LeetCode Algorithm Solution
 |[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Best Time to Buy and Sell Stock II](./2021/11/10/)93.20%|Medium|#python3, #golang|
 |[1413](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Minimum Value to Get Positive Step by Step Sum](./2021/11/11/)45.97%|Easy|#python3, #golang|
 |[203](https://leetcode.com/problems/remove-linked-list-elements/)|[Remove Linked List Elements](./2021/11/12/)38.44%|Easy|#python3, #golang|
+|[739](https://leetcode.com/problems/daily-temperatures/)|[Daily Temperatures](./2021/11/13/)78.69%|Medium|#python3, #golang|
