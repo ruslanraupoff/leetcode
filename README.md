@@ -200,3 +200,5 @@ LeetCode Algorithm Solution
 |[1413](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Minimum Value to Get Positive Step by Step Sum](./2021/11/11/)45.97%|Easy|#python3, #golang|
 |[203](https://leetcode.com/problems/remove-linked-list-elements/)|[Remove Linked List Elements](./2021/11/12/)38.44%|Easy|#python3, #golang|
 |[739](https://leetcode.com/problems/daily-temperatures/)|[Daily Temperatures](./2021/11/13/)78.69%|Medium|#python3, #golang|
+|[1286](https://leetcode.com/problems/iterator-for-combination/)|[Iterator for Combination](./2021/11/14/)61.17%|Medium|#python3, #golang|
+|[368](https://leetcode.com/problems/largest-divisible-subset/)|[Largest Divisible Subset](./2021/11/15/)59.91%|Medium|#python3, #golang|
