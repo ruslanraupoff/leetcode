@@ -202,3 +202,4 @@ LeetCode Algorithm Solution
 |[739](https://leetcode.com/problems/daily-temperatures/)|[Daily Temperatures](./2021/11/13/)78.69%|Medium|#python3, #golang|
 |[1286](https://leetcode.com/problems/iterator-for-combination/)|[Iterator for Combination](./2021/11/14/)61.17%|Medium|#python3, #golang|
 |[368](https://leetcode.com/problems/largest-divisible-subset/)|[Largest Divisible Subset](./2021/11/15/)59.91%|Medium|#python3, #golang|
+|[668](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Kth Smallest Number in Multiplication Table](./2021/11/16/)94.15%|Hard|#python3, #golang|
