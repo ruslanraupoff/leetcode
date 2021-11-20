@@ -206,3 +206,4 @@ LeetCode Algorithm Solution
 |[62](https://leetcode.com/problems/unique-paths/)|[Unique Paths](./2021/11/17/)69.60%|Hard|#python3, #golang|
 |[448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Find All Numbers Disappeared in an Array](./2021/11/18/)62.67%|Easy|#python3, #golang|
 |[461](https://leetcode.com/problems/hamming-distance/)|[Hamming Distance](./2021/11/19/)62.28%|Easy|#python3, #golang|
+|[540](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Single Element in a Sorted Array](./2021/11/20/)79.13%|Medium|#python3, #golang|
