@@ -209,3 +209,4 @@ LeetCode Algorithm Solution
 |[540](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Single Element in a Sorted Array](./2021/11/20/)79.13%|Medium|#python3, #golang|
 |[198](https://leetcode.com/problems/house-robber/)|[House Robber](./2021/12/01/)89.12%|Medium|#python3, #golang|
 |[328](https://leetcode.com/problems/odd-even-linked-list/)|[Odd Even Linked List](./2021/12/02/)86.95%|Medium|#python3, #golang|
+|[152](https://leetcode.com/problems/maximum-product-subarray/)|[Maximum Product Subarray](./2021/12/03/)95.47%|Medium|#python3, #golang|
