@@ -210,4 +210,5 @@ LeetCode Algorithm Solution
 |[198](https://leetcode.com/problems/house-robber/)|[House Robber](./2021/12/01/)89.12%|Medium|#python3, #golang|
 |[328](https://leetcode.com/problems/odd-even-linked-list/)|[Odd Even Linked List](./2021/12/02/)|86.95%|Medium|#python3, #golang|
 |[152](https://leetcode.com/problems/maximum-product-subarray/)|[Maximum Product Subarray](./2021/12/03/)|95.47%|Medium|#python3, #golang|
-|[1032](https://leetcode.com/problems/stream-of-characters/)|[Stream of Characters](./2021/12/03/)|53.44%|Hard|#python3, #golang|
+|[1032](https://leetcode.com/problems/stream-of-characters/)|[Stream of Characters](./2021/12/04/)|53.44%|Hard|#python3, #golang|
+|[1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[Minimum Cost to Move Chips to The Same Position](./2021/12/06/)|72.22%|Easy|#python3, #golang|
