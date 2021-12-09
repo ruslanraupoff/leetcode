@@ -213,3 +213,4 @@ LeetCode Algorithm Solution
 |[1032](https://leetcode.com/problems/stream-of-characters/)|[Stream of Characters](./2021/12/04/)|53.44%|Hard|#python3, #golang|
 |[1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[Minimum Cost to Move Chips to The Same Position](./2021/12/06/)|72.22%|Easy|#python3, #golang|
 |[563](https://leetcode.com/problems/binary-tree-tilt/)|[Binary Tree Tilt](./2021/12/08/)|23.59%|Easy|#python3, #golang|
+|[1306](https://leetcode.com/problems/jump-game-iii/)|[Jump Game III](./2021/12/09/)|64.24%|Medium|#python3, #golang|
