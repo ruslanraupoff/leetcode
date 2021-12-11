@@ -215,3 +215,4 @@ LeetCode Algorithm Solution
 |[563](https://leetcode.com/problems/binary-tree-tilt/)|[Binary Tree Tilt](./2021/12/08/)|23.59%|Easy|#python3, #golang|
 |[1306](https://leetcode.com/problems/jump-game-iii/)|[Jump Game III](./2021/12/09/)|64.24%|Medium|#python3, #golang|
 |[790](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Domino and Tromino Tiling](./2021/12/10/)|83.59%|Medium|#python3, #golang|
+|[878](https://leetcode.com/problems/nth-magical-number/)|[Nth Magical Number](./2021/12/11/)|72.73%|Hard|#python3, #golang|
