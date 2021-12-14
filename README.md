@@ -217,3 +217,4 @@ LeetCode Algorithm Solution
 |[790](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Domino and Tromino Tiling](./2021/12/10/)|83.59%|Medium|#python3, #golang|
 |[878](https://leetcode.com/problems/nth-magical-number/)|[Nth Magical Number](./2021/12/11/)|72.73%|Hard|#python3, #golang|
 |[416](https://leetcode.com/problems/partition-equal-subset-sum/)|[Partition Equal Subset Sum](./2021/12/12/)|15.82%|Medium|#python3, #golang|
+|[938](https://leetcode.com/problems/range-sum-of-bst/)|[Range Sum of BST](./2021/12/14/)|33.17%|Easy|#python3, #golang|
