@@ -220,4 +220,5 @@ LeetCode Algorithm Solution
 |[938](https://leetcode.com/problems/range-sum-of-bst/)|[Range Sum of BST](./2021/12/14/)|33.17%|Easy|#python3, #golang|
 |[147](https://leetcode.com/problems/insertion-sort-list/)|[Insertion Sort List](./2021/12/15/)|87.25%|Medium|#python3, #golang|
 |[310](https://leetcode.com/problems/minimum-height-trees/)|[Minimum Height Trees](./2021/12/16/)|44.86%|Medium|#python3, #golang|
-|[221](https://leetcode.com/problems/maximal-square/)|[Maximal Square](./2021/12/16/)|30.20%|Medium|#python3, #golang|
+|[221](https://leetcode.com/problems/maximal-square/)|[Maximal Square](./2021/12/17/)|30.20%|Medium|#python3, #golang|
+|[394](https://leetcode.com/problems/decode-string/)|[Decode String](./2021/12/19/)|83.89%|Medium|#python3, #golang|
