@@ -223,3 +223,4 @@ LeetCode Algorithm Solution
 |[221](https://leetcode.com/problems/maximal-square/)|[Maximal Square](./2021/12/17/)|30.20%|Medium|#python3, #golang|
 |[394](https://leetcode.com/problems/decode-string/)|[Decode String](./2021/12/19/)|83.89%|Medium|#python3, #golang|
 |[1200](https://leetcode.com/problems/minimum-absolute-difference/)|[Minimum Absolute Difference](./2021/12/20/)|52.64%|Easy|#python3, #golang|
+|[231](https://leetcode.com/problems/power-of-two/)|[Power of Two](./2021/12/21/)|69.21%|Easy|#python3, #golang|
