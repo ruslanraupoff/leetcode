@@ -225,3 +225,4 @@ LeetCode Algorithm Solution
 |[1200](https://leetcode.com/problems/minimum-absolute-difference/)|[Minimum Absolute Difference](./2021/12/20/)|52.64%|Easy|#python3, #golang|
 |[231](https://leetcode.com/problems/power-of-two/)|[Power of Two](./2021/12/21/)|69.21%|Easy|#python3, #golang|
 |[143](https://leetcode.com/problems/reorder-list/)|[Reorder List](./2021/12/22/)|53.19%|Medium|#python3, #golang|
+|[56](https://leetcode.com/problems/merge-intervals/)|[Merge Intervals](./2021/12/24/)|76.98%|Medium|#python3, #golang|
