@@ -226,3 +226,5 @@ LeetCode Algorithm Solution
 |[231](https://leetcode.com/problems/power-of-two/)|[Power of Two](./2021/12/21/)|69.21%|Easy|#python3, #golang|
 |[143](https://leetcode.com/problems/reorder-list/)|[Reorder List](./2021/12/22/)|53.19%|Medium|#python3, #golang|
 |[56](https://leetcode.com/problems/merge-intervals/)|[Merge Intervals](./2021/12/24/)|76.98%|Medium|#python3, #golang|
+|[973](https://leetcode.com/problems/k-closest-points-to-origin/)|[K Closest Points to Origin](./2021/12/26/)|85.30%|Medium|#python3, #golang|
+|[476](https://leetcode.com/problems/number-complement/)|[Number Complement](./2021/12/27/)|94.85%|Easy|#python3, #golang|
