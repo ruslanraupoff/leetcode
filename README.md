@@ -228,3 +228,4 @@ LeetCode Algorithm Solution
 |[56](https://leetcode.com/problems/merge-intervals/)|[Merge Intervals](./2021/12/24/)|76.98%|Medium|#python3, #golang|
 |[973](https://leetcode.com/problems/k-closest-points-to-origin/)|[K Closest Points to Origin](./2021/12/26/)|85.30%|Medium|#python3, #golang|
 |[476](https://leetcode.com/problems/number-complement/)|[Number Complement](./2021/12/27/)|94.85%|Easy|#python3, #golang|
+|[876](https://leetcode.com/problems/middle-of-the-linked-list/)|[Middle of the Linked List](./2021/12/28/)|60.47%|Easy|#python3, #golang|
