@@ -229,3 +229,4 @@ LeetCode Algorithm Solution
 |[973](https://leetcode.com/problems/k-closest-points-to-origin/)|[K Closest Points to Origin](./2021/12/26/)|85.30%|Medium|#python3, #golang|
 |[476](https://leetcode.com/problems/number-complement/)|[Number Complement](./2021/12/27/)|94.85%|Easy|#python3, #golang|
 |[876](https://leetcode.com/problems/middle-of-the-linked-list/)|[Middle of the Linked List](./2021/12/28/)|60.47%|Easy|#python3, #golang|
+|[116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Populating Next Right Pointers in Each Node](./2021/12/29/)|35.63%|Medium|#python3, #golang|
