@@ -235,4 +235,4 @@ LeetCode Algorithm Solution
 |[382](https://leetcode.com/problems/linked-list-random-node/)|[Linked List Random Node](./2022/01/07/)|99.54%|Medium|#python3, #golang|
 |[1463](https://leetcode.com/problems/cherry-pickup-ii/)|[Cherry Pickup II](./2022/01/08/)|12.13%|Hard|#python3, #golang|
 |[1041](https://leetcode.com/problems/robot-bounded-in-circle/)|[Robot Bounded In Circle](./2022/01/09/)|7.64%|Medium|#python3, #golang|
-|[67](https://leetcode.com/problems/add-binary/)|[Add Binary](./2022/01/10/)|7.16%|Easy|#python3, #golang|
+|[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Sum of Root To Leaf Binary Numbers](./2022/01/11/)|7.17%|Easy|#python3, #golang|
