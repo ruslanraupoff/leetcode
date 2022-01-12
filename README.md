@@ -236,3 +236,4 @@ LeetCode Algorithm Solution
 |[1463](https://leetcode.com/problems/cherry-pickup-ii/)|[Cherry Pickup II](./2022/01/08/)|12.13%|Hard|#python3, #golang|
 |[1041](https://leetcode.com/problems/robot-bounded-in-circle/)|[Robot Bounded In Circle](./2022/01/09/)|7.64%|Medium|#python3, #golang|
 |[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Sum of Root To Leaf Binary Numbers](./2022/01/11/)|7.17%|Easy|#python3, #golang|
+|[701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Insert into a Binary Search Tree](./2022/01/11/)|26.77%|Medium|#python3, #golang|
