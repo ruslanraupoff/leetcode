@@ -238,3 +238,4 @@ LeetCode Algorithm Solution
 |[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Sum of Root To Leaf Binary Numbers](./2022/01/11/)|7.17%|Easy|#python3, #golang|
 |[701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Insert into a Binary Search Tree](./2022/01/12/)|26.77%|Medium|#python3, #golang|
 |[452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Minimum Number of Arrows to Burst Balloons](./2022/01/13/)|14.51%|Medium|#python3, #golang|
+|[849](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Maximize Distance to Closest Person](./2022/01/16/)|14.63%|Medium|#python3, #golang|
