@@ -241,3 +241,4 @@ LeetCode Algorithm Solution
 |[849](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Maximize Distance to Closest Person](./2022/01/16/)|14.63%|Medium|#python3, #golang|
 |[290](https://leetcode.com/problems/word-pattern/)|[Word Pattern](./2022/01/17/)|38.10%|Easy|#python3, #golang|
 |[605](https://leetcode.com/problems/can-place-flowers/)|[Can Place Flowers](./2022/01/18/)|17.65%|Easy|#python3, #golang|
+|[142](https://leetcode.com/problems/linked-list-cycle-ii)|[Linked List Cycle II](./2022/01/19/)|40.41%|Medium|#python3, #golang|
